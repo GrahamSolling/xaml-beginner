@@ -23,12 +23,8 @@
         <TextBlock Foreground="White" Grid.Row="1" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Bottom">
             <Run Text="Internal Test Version"/>
         </TextBlock>
-        <TextBlock Foreground="White" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center">
-            <Run Text="**Go to Orders View**"/>
-        </TextBlock>
-        <TextBlock Foreground="White" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center">
-            <Run Text="**Submit Order**"/>
-        </TextBlock>
+        <Button x:ConnectionId='1' Content="Go to Orders View" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White" Background="Gray"                            />
+        <Button x:ConnectionId='2' Content="Submit Order" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White" Background="Gray"                         />
     </Grid>
 </Page>
 
