@@ -1,1 +1,0 @@
-C:\Users\graha\Documents\Visual Studio 2015\Projects\RestaurantManager\RestaurantManager\RestaurantManager.csproj;x86

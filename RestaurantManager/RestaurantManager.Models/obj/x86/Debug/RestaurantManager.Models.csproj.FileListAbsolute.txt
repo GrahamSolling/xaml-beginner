@@ -1,0 +1,36 @@
+C:\Users\dancs\OneDrive\Dokumentumok\Visual Studio 2015\Projects\RestaurantManager\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.dll
+C:\Users\dancs\OneDrive\Dokumentumok\Visual Studio 2015\Projects\RestaurantManager\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.pdb
+C:\Users\dancs\OneDrive\Dokumentumok\Visual Studio 2015\Projects\RestaurantManager\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.pri
+C:\Users\dancs\OneDrive\Dokumentumok\Visual Studio 2015\Projects\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.dll
+C:\Users\dancs\OneDrive\Dokumentumok\Visual Studio 2015\Projects\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.pdb
+C:\Users\dancs\OneDrive\Dokumentumok\Visual Studio 2015\Projects\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\dancs\OneDrive\Dokumentumok\Visual Studio 2015\Projects\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\priconfig.xml
+C:\Users\dancs\OneDrive\Dokumentumok\Visual Studio 2015\Projects\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\dancs\OneDrive\Dokumentumok\Visual Studio 2015\Projects\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\layout.resfiles
+C:\Users\dancs\OneDrive\Dokumentumok\Visual Studio 2015\Projects\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\dancs\OneDrive\Dokumentumok\Visual Studio 2015\Projects\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\resources.resfiles
+C:\Users\dancs\OneDrive\Dokumentumok\Visual Studio 2015\Projects\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\dancs\OneDrive\Dokumentumok\Visual Studio 2015\Projects\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\pri.resfiles
+C:\Users\dancs\OneDrive\Dokumentumok\Visual Studio 2015\Projects\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\dancs\OneDrive\Dokumentumok\Visual Studio 2015\Projects\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\qualifiers.txt
+C:\Users\dancs\OneDrive\Dokumentumok\Visual Studio 2015\Projects\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\dancs\OneDrive\Dokumentumok\Visual Studio 2015\Projects\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\dancs\OneDrive\Dokumentumok\Visual Studio 2015\Projects\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.csprojResolveAssemblyReference.cache
+C:\Users\graha\Downloads\xaml-beginner-3.0\xaml-beginner-3.0\RestaurantManager\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.dll
+C:\Users\graha\Downloads\xaml-beginner-3.0\xaml-beginner-3.0\RestaurantManager\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.pdb
+C:\Users\graha\Downloads\xaml-beginner-3.0\xaml-beginner-3.0\RestaurantManager\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.pri
+C:\Users\graha\Downloads\xaml-beginner-3.0\xaml-beginner-3.0\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.csprojResolveAssemblyReference.cache
+C:\Users\graha\Downloads\xaml-beginner-3.0\xaml-beginner-3.0\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.dll
+C:\Users\graha\Downloads\xaml-beginner-3.0\xaml-beginner-3.0\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.pdb
+C:\Users\graha\Downloads\xaml-beginner-3.0\xaml-beginner-3.0\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\graha\Downloads\xaml-beginner-3.0\xaml-beginner-3.0\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\priconfig.xml
+C:\Users\graha\Downloads\xaml-beginner-3.0\xaml-beginner-3.0\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\graha\Downloads\xaml-beginner-3.0\xaml-beginner-3.0\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\layout.resfiles
+C:\Users\graha\Downloads\xaml-beginner-3.0\xaml-beginner-3.0\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\graha\Downloads\xaml-beginner-3.0\xaml-beginner-3.0\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\resources.resfiles
+C:\Users\graha\Downloads\xaml-beginner-3.0\xaml-beginner-3.0\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\graha\Downloads\xaml-beginner-3.0\xaml-beginner-3.0\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\pri.resfiles
+C:\Users\graha\Downloads\xaml-beginner-3.0\xaml-beginner-3.0\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\graha\Downloads\xaml-beginner-3.0\xaml-beginner-3.0\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\qualifiers.txt
+C:\Users\graha\Downloads\xaml-beginner-3.0\xaml-beginner-3.0\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\graha\Downloads\xaml-beginner-3.0\xaml-beginner-3.0\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt

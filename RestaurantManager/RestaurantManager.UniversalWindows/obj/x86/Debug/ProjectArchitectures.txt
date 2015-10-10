@@ -1,0 +1,2 @@
+C:\Users\graha\Downloads\xaml-beginner-3.0\xaml-beginner-3.0\RestaurantManager\RestaurantManager.Models\RestaurantManager.Models.csproj;x86
+C:\Users\graha\Downloads\xaml-beginner-3.0\xaml-beginner-3.0\RestaurantManager\RestaurantManager.UniversalWindows\RestaurantManager.UniversalWindows.csproj;x86
